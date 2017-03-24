@@ -1,0 +1,9 @@
+__history/
+*.droj.local
+lib/
+Win32/
+out/
+*.tvsconfig
+__recovery/
+*.identcache
+*.stat
